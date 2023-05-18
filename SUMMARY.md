@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Git Sync Video (josh)](README.md)
+* [Git Sync Video (josh yates)](README.md)
 * [Bi-directional Git integration](bi-directional-git-integration.md)
 * [Commit messages & Autolink](commits.md)
 * [Content Configuration](content-configuration.md)
