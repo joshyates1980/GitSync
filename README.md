@@ -4,7 +4,7 @@ description: >-
   bi-directional integration.
 ---
 
-# Git Sync
+# Git Sync Video (josh yates)
 
 Git Sync allows technical teams to synchronize GitHub or GitLab repositories with GitBook and turn Markdown files into beautiful, user-friendly docs. Edit directly in GitBook’s powerful editor while keeping content synchronised with your codebase on GitHub or GitLab.
 
@@ -12,7 +12,7 @@ Git Sync is bi-directional, so changes made directly in GitBook’s editor are a
 
 {% hint style="info" %}
 **Permissions**\
-\*\*\*\*Administrators and creators can enable and configure Git Sync.
+\*\*\*\* \$$ Administrators and creators can enable and configure Git Sync.
 {% endhint %}
 
 ### Learn more about:
